@@ -1,0 +1,8 @@
+History.txt
+Manifest.txt
+README.rdoc
+Rakefile
+lib/file_transfer_matchers.rb
+lib/file_transfer_matchers/file_transfer_matchers.rb
+lib/file_transfer_matchers/file_transfer_matcher.rb
+spec/file_transfer_matchers_spec.rb
