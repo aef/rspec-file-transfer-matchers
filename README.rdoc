@@ -1,6 +1,7 @@
 = FileTransferMatchers
 
 * Project: https://rubyforge.org/projects/aef/
+* RDoc: http://rdoc.info/projects/aef/rspec-file-transfer-matchers/
 * RDoc: http://aef.rubyforge.org/rspec-file-transfer-matchers/
 * Github: http://github.com/aef/rspec-file-transfer-matchers/
 
